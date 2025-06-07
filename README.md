@@ -15,7 +15,7 @@ This project demonstrates how an **autoencoder** can learn to reconstruct both s
 
 ## 📂 File Summary
 
-- `Assignment11_Autoencoders_Ruchitha.ipynb` – Main notebook  
+- `Autoencoders_Ruchitha.ipynb` – Main notebook  
 - `initially_trained_autoencoder.h5` – Pretrained autoencoder  
 - `R1.png` to `R5.png` – Custom grayscale character images  
 - `README.md` – This summary
@@ -52,8 +52,17 @@ This project demonstrates how an **autoencoder** can learn to reconstruct both s
 ## 📊 Visual Results
 
 - **Top Row**: Original MNIST digits
+- ![image](https://github.com/user-attachments/assets/f9a09489-107e-4df8-a509-7e523ef26b06)
+
 - **Bottom Row**: Reconstructed outputs
+- ![image](https://github.com/user-attachments/assets/f0a9ded0-ceb3-4ed6-9609-a0429560a94b)
+- 
+- ![image](https://github.com/user-attachments/assets/71ee6ed6-caaa-49e0-bddc-be0a21cb51b6)
+
+
 - **Final Output**: Autoencoder successfully reconstructed both digits and "R"
+- ![image](https://github.com/user-attachments/assets/a0eae7bf-b1d7-48e8-a177-3cd2e776984d)
+
 
 > 🖼️ Conclusion: The model generalized well and visually replicated both digits and the unseen letter "R" — showcasing autoencoder flexibility for custom data integration.
 
